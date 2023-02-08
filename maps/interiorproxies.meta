@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2000" />
+	<proxies>
+
+        <!-- Ballers House  -->
+        <Item>int_ballas_gang_milo_</Item>
+        <Item>int_garagel_ballas_gang_milo_</Item>
+        <Item>int_warehouse_one_ballas_gang_milo_</Item>
+        <Item>int_warehouse_two_ballas_gang_milo_</Item>
+
+        <!-- Bean Machine -->
+        <Item>int_bin_milo_</Item>
+
+        <!-- Digital Den -->
+        <Item>int_magazel1_milo_</Item>
+
+        <!-- Gabz Hater Shop -->
+        <Item>gabz_haters_milo_</Item>
+
+        <!-- Familes -->
+        <Item>int_families_gang_milo_</Item>
+
+        <!-- Gabz House -->
+        <Item>gabz_mp_house_10_1_milo_</Item>
+        <Item>gabz_mp_house_10_2_milo_</Item>
+        <Item>gabz_mp_house_10_3_milo_</Item>
+
+        <!-- Gabz Pillbox -->
+        <Item>gabz_pillbox_milo_</Item>
+
+        <!-- iFruit Store -->
+        <Item>int_storedt_milo_</Item>
+
+        <!-- Marabunta -->
+        <Item>int_marabunta_gang_milo_</Item>
+
+        <!-- Prison -->
+        <Item>int_prison_first_milo_</Item>
+        <Item>int_prison_main_milo_</Item>
+        <Item>int_prison_recep_milo_</Item>
+        <Item>int_prison_second_milo_</Item>
+
+        <!-- Studio 1 -->
+        <Item>dons_stulo_1a_milo_</Item>
+
+        <!-- Studio 3 -->
+        <Item>dons_wp_studio_milo_</Item>
+
+        <!-- Vagos Interior -->
+        <Item>int_vagos_gang_milo_</Item>
+
+        <!-- Vinewood Cinema -->
+        <Item>v_cinemavine_milo_</Item>
+
+        <!-- Vinewood Court -->
+        <Item>retssal_bobo_milo_</Item>
+
+        <!-- Pearls -->
+        <Item>sibaaa_pearls_milo_</Item>
+        <Item>sibaaa_pearls_og_milo_</Item>
+
+        <!-- Weed Store -->
+        <Item>int_weed_milo_</Item>
+
+        <!-- Vespucci Beach -->
+        <Item>int_beachcon_milo_</Item>
+        
+        <!-- Rebel Radio -->
+        <Item>int_rebelrad_milo_</Item>
+        <Item>int_rebelserv_milo_</Item>
+
+        <!-- Smokey -->
+        <Item>smokey_baraky_milo_</Item>
+        <Item>smokey_baraky_milo_1_</Item>
+
+        <!-- Hotdog Legion-->
+        <Item>int_hotdogs_milo_</Item>
+
+        <!-- Splitsides -->
+        <Item>gta5interiors_splitsides</Item>
+
+        <!-- Taco -->
+        <Item>slb2k11_taco_milo_</Item>
+
+        <!-- School -->
+        <Item>Milos_Milo</Item>
+
+        <!-- McDonalds -->
+        <Item>mcd</Item>
+
+        <!-- Bennys -->
+        <Item>lr_sc1_02_interior_0_supermod_int_milo_</Item>
+
+        <!-- Church -->
+        <Item>bobo_church_milo_</Item>
+
+        <!-- El Burro House -->
+        <Item>rflx_marabunta_milo_</Item>
+
+        <!-- El Burro Shop -->
+        <Item>elburro_shop_milo_</Item>
+
+        <!-- Burger Shop Mirror Park -->
+        <Item>ev_gk_milo_</Item>
+
+        <!-- Cleaning -->
+        <Item>int_clean_milo_</Item>
+
+        <!-- Sheriff -->
+        <Item>ob_dsd_milo_</Item>
+
+    	<Item>gabz_mrpd_milo_</Item>
+	</proxies>
+</SInteriorOrderData>
